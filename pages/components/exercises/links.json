@@ -1,0 +1,56 @@
+{
+  "links": [
+    {
+      "label": "Abdominals",
+      "href": "abdominals"
+    },
+    {
+      "label": "Abductors",
+      "href": "abductors"
+    },
+    {
+      "label": "Adductors",
+      "href": "adductors"
+    },
+    {
+      "label": "Biceps",
+      "href": "biceps"
+    },
+    {
+      "label": "Calves",
+      "href": "calves"
+    },
+    {
+      "label": "Chest",
+      "href": "chest"
+    },
+    {
+      "label": "Forearms",
+      "href": "forearms"
+    },
+    {
+      "label": "Glutes",
+      "href": "glutes"
+    },
+    {
+      "label": "Lats",
+      "href": "lats"
+    },
+    {
+      "label": "Quadriceps",
+      "href": "quads"
+    },
+    {
+      "label": "Shoulders",
+      "href": "shoulders"
+    },
+    {
+      "label": "Traps",
+      "href": "traps"
+    },
+    {
+      "label": "Triceps",
+      "href": "triceps"
+    }
+  ]
+}

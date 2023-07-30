@@ -1,0 +1,20 @@
+{
+  "links2": [
+    {
+      "label": "HOME",
+      "href": "adminhome"
+    },
+    {
+      "label": "EXERCISE",
+      "href": "adminexercise"
+    },
+    {
+      "label": "TRACKER",
+      "href": "admintracker"
+    },
+    {
+      "label": "USERS",
+      "href": "user"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "links": [
+    {
+      "label": "HOME",
+      "href": "/"
+    },
+    {
+      "label": "EXERCISE",
+      "href": "exercise"
+    },
+    {
+      "label": "TRACKER",
+      "href": "tracker"
+    },
+    {
+      "label": "HISTORY",
+      "href": "history"
+    },
+    {
+      "label": "LOG IN",
+      "href": "logIn"
+    }
+  ]
+}
